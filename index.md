@@ -1,9 +1,7 @@
 ---
-title: JAMM425
+title: JAMM425 Magazine Feature Writing 
 layout: page
 ---
-
-# JAMM425 Magazine Feature Writing
 
 {% include figure.html img="Will-and-Zivon.png" alt="Will and his dog Zivon" caption="Will and Zivon" width="75%" %}
 
