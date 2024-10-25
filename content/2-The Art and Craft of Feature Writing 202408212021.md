@@ -6,10 +6,6 @@ nav: The Art and Craft of Feature Writing
 description: >
     Main note on The Art and Craft of Feature Writing.
 ---
-
----
-
-
 ## Introduction
 - Good writing is about telling a story and including facts that are as true and interesting to others as they are to us. 
 
