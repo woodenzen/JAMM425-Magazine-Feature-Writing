@@ -2,7 +2,6 @@
 UUID:      ›[[202410200541]] 
 cdate:     10-20-2024 05:41 AM
 title: How to Craft a Lead That Draws Readers In 
-nav: Chapter 1
 ---
 
 ---
