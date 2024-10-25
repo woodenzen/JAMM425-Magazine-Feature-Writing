@@ -1,6 +1,5 @@
 ---
 title: Class Notes
-nav: Notes
 ---
 The *Write Right Journal* offers an array of writing and editing tips focused on creating compelling, conversational stories. The entries span practical techniques, from crafting nut graphs to keeping stories fast-paced with short paragraphs. Storytelling should feel conversational. 
 

@@ -16,17 +16,18 @@ description: >
 - It can't be stated strongly enough—you have to tell exciting stories all the time.
 
 ## Chapter 1 Raw Materials
-- Story Raw Materials [[202410200536]]
+- Story Raw Materials [[[202410200536](202410200536.md)]]
 ## Chapter 2 
-- Shaping Ideas [[202410200538]]
+- Shaping Ideas [[[202410200538](202410200538.md)]]
 ## Chapter 3
-- Story Dimensions [[202410200540]]
+- Story Dimensions [[[202410200540](202410200540.md)]]
 ## Chapter 6 Handling Key Story Elements
 - How to Craft a Lead That Draws Readers In [[[202410200541](202410200541.md)]]
 ## Chapter 7
-- Wordcraft [[202410191748]]
+## Chapter 7
+- Wordcraft [[[202410191748](202410191748.md)]]
 ## Chapter 8
-- Stretching Out [[202410240837]]
+- Stretching Out [[[202410240837](202410240837.md)]]
   
 
 ----------------------------------
