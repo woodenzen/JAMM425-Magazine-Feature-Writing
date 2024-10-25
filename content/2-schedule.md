@@ -1,7 +1,10 @@
 ---
 title: Schedule of Assigments
 nav: Assignement
----## Assignment Schedule
+description: >
+    This text is a "section description". Below is "section topics", followed by an example section video embed. This page details how to write content pages and add interest with includes.
+---
+
 - Thu Aug 22, 2024 First writing exercise (ungraded)	Due by 5 PM
 - Tue Aug 27, 2024 Guest speaker 1	Due by 11:59 PM
 - Thu Aug 29, 2024 Second writing exercise	Due by 5 PM
