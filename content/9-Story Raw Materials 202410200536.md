@@ -1,0 +1,64 @@
+---
+UUID:      ›[[202410200536]] 
+cdate:     10-20-2024 05:36 AM
+tags:      #JAMM425 #editorial-writing #writing #editing 
+---
+# Story Raw Materials 
+Subatomic: To create compelling work, originality requires exploring less apparent sources, seeking out mentors, and broadening ideas to find connections that others overlook. 
+
+Source: Chapter 1 - The Art and Craft of Feature Writing [[202408212021]]
+
+## Raw Materials
+- To get good, you have to think, read, and talk with the right people. 
+
+- Reading popular newspapers reveals what has already been done, and if this is all you read, avoiding being a copycat can restrict your choices. Instead, read books and articles with subject areas that interest you, that affect the lives of lots of readers, and that are not covered regularly or recently. "Read publications that cover them—professional quarterlies, association newsletters, academic, think-tank, and foundation reports." I  can steal ideas from them with impunity because of their obscurity from the popular press.
+
+- Use idea/notes software (The Archive). 
+
+- When interviewing for a story, look for the middlemen. They are closer to the ground and less constrained to talk with. They usually feel complimented by the interest shown. 
+
+- Calling on a source to just talk without a story in mind transforms the relationship, and the source becomes a mentor. "The goal isn’t to extract bits of information but to craft an idea, drawing on his expert knowledge and insights."
+
+> This sort of cultivation can be more productive than an interview on an idea already developed. 
+
+- Always be on the lookout for a story. Look for a unifying element that ties the story to a broader and unrecognized theme. Ultimately, while locations and causes may vary, a typical group of people, institutions, or places participates similarly.
+
+> Broadening story themes and unifying scattered developments through extrapolation and synthesis can give the reporter a jump on competitors who are lolling about, waiting for news to jump up and bite them.
+
+## Broadening and then Unifying
+### LOCALIZATION
+
+- Example
+> San Francisco has long been toasted as one of the world’s easiest places to get drunk and stay drunk. It has the requisite amenities: relatively cheap liquor, a temperate climate, and legions of tourists who are easy marks for a practiced panhandler.
+
+### PROJECTION
+Omit the details and focus on the outcomes.
+
+### Switching VIEWPOINT
+- Take a unique perspective. 
+  - A policewoman
+  - A blind guy
+  - A recent immigrant
+
+----------------------------------
+Have the interviewee speak. This signals that we are being told the truth.
+
+With these techniques, the writer is sensitive to what readers like and to those high-interest elements that separate a good story—or story idea—from a tedious, unengaging one.
+
+This is what readers like in descending order.
+
+> 1. Dogs, followed by other cute animals and well-behaved small children.
+> 2. People/Actors. Lacking a dog (and it’s a shame how often we do) this element carries the most intrinsic reader interest, provided the people meet two criteria. First, by actors, I mean actors are those people who make things happen or who are directly affected by what happens.
+
+Actors in my story need to be doing or saying things that are interesting and relevant to the plot or narrative. Use observations sparingly and give prominence to sources with direct experience.
+ 
+
+----------------------------------
+## See Also
+- Interviewing Skills [[202410181608]]
+     * Developing interviewing skills involves experimenting with various questions and approaches to foster trust and draw out honest responses.
+
+## References
+- The Art and Craft of Feature Writing [[202408212021]]
+     - Telling a captivating story with journalism. - Blundell, William E. _The art and craft of feature writing: based on the Wall Street Journal guide_. 1988. 
+- [[B-The Art and Craft of Feature Writing 202408212021]]
