@@ -2,16 +2,14 @@
 UUID:      ›[[202408212021]] 
 cdate:     08-21-2024 08:21 PM 
 title: The Art and Craft of Feature Writing
-nav: Textbook
+nav: The Art and Craft of Feature Writing
 description: >
     Main note on The Art and Craft of Feature Writing.
 ---
 
 ---
-# The Art and Craft of Feature Writing 
-Subatomic: Telling a captivating story with journalism. 
 
------
+
 ## Introduction
 - Good writing is about telling a story and including facts that are as true and interesting to others as they are to us. 
 
@@ -24,7 +22,7 @@ Subatomic: Telling a captivating story with journalism.
 ## Chapter 3
 - Story Dimensions [[202410200540]]
 ## Chapter 6 Handling Key Story Elements
-- How to Craft a Lead That Draws Readers In [[202410200541]]
+- How to Craft a Lead That Draws Readers In [[[202410200541](content/How to Craft a Lead That Draws Readers In 202410200541.md)]]
 ## Chapter 7
 - Wordcraft [[202410191748]]
 ## Chapter 8
