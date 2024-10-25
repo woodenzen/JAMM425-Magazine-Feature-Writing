@@ -1,6 +1,6 @@
 ---
 title: Schedule of Assigments
-nav: Assignment
+nav: Assignment Schedule
 description: >
     This is a published schedule of assignments.
 ---
