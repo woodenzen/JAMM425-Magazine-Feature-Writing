@@ -1,7 +1,7 @@
 ---
-title: Workshop Prep
-nav: Prep
-topics: GitHub; Optional Software
+title: Class Notes
+nav: Notes
+topics: Writing; Journalism
 ---
 
 To create your own materials using `workshop-template-b`, please set up a free [GitHub account](https://github.com/join) if you do not have one already.

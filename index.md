@@ -1,21 +1,14 @@
 ---
-title: Home
+title: JAMM425
 layout: page
 ---
 
-# Bootstrap Workshop Template!
+# JAMM425 Magazine Feature Writing
 
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
+{% include figure.html img="Will-and-Zivon.png" alt="Will and his dog Zivon" caption="Will and Zivon" width="75%" %}
 
-A minimal Jekyll theme with Bootstrap for creating workshop websites.
+This class was during the fall term of 2024 at the University of Idaho.
 
-*Add your workshop abstract here!*
-
-Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
-Host it for free on GitHub with gh-pages, and share!
-Fun!
-
-*See also:* [workshop-template](https://evanwill.github.io/workshop-template/), original minimal version.
 
 {% include toc.html %}
 
