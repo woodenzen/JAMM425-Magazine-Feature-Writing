@@ -22,7 +22,7 @@ description: >
 ## Chapter 3
 - Story Dimensions [[202410200540]]
 ## Chapter 6 Handling Key Story Elements
-- How to Craft a Lead That Draws Readers In [[[202410200541](content/How to Craft a Lead That Draws Readers In 202410200541.md)]]
+- How to Craft a Lead That Draws Readers In [[[202410200541](How to Craft a Lead That Draws Readers In 202410200541.md)]]
 ## Chapter 7
 - Wordcraft [[202410191748]]
 ## Chapter 8
