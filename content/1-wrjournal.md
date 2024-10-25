@@ -1,16 +1,15 @@
 ---
 title: Write Right Journal 
-nav: Journal
+nav: Write Right Journal
 description: >
-    This text is a "section description". Below is "section topics", followed by an example section video embed. This page details how to write content pages and add interest with includes.
+    Writing and editing tips and tricks gleaned from reading and guest lectures.
 ---
-
-Subatomic: Writing and editing tips and tricks.
 
 # Lede
 Great writing tips come from anywhere.
 
 ----------------------------------
+
 #### Oct 22
 - Multiple nut graphs with short words can be used to spell out the story. 
 - Hyperlink embedded in the story.
