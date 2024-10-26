@@ -10,6 +10,10 @@ Great writing tips come from anywhere.
 
 ----------------------------------
 
+#### Oct 26
+- Instead of telling your readers what to do, show them through examples, descriptions, stories, and anecdotes.
+- Good writers are masters at painting clear images in the minds of their readers.
+
 #### Oct 22
 - Multiple nut graphs with short words can be used to spell out the story. 
 - Hyperlink embedded in the story.
