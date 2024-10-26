@@ -25,7 +25,7 @@ description: >
 - How to Craft a Lead That Draws Readers In [[[202410200541](202410200541.md)]]
 
 ## Chapter 7
-- Wordcraft [[202410191748]]
+- Wordcraft  [[[202410191748](202410191748.md)]]
     - Storytelling thrives on clarity of ideas, specificity of language, and the movement of characters.
 
 ## Chapter 8
