@@ -212,7 +212,8 @@ Take chances, have fun, and grow.
 [^1]: Tits Up [[202408121909]]
     - Human chests are rich repositories of meaning. This book is a breast cancer survivor's memoir and social commentary. She is a lesbian who had a double mastectomy and then reconstruction.
 [^2]: JAMM425 August 22, 2024 [[202408201906]]
-     * Seminar notes.- The Art and Craft of Feature Writing [[202408212021]]
+     * Seminar notes.
+- The Art and Craft of Feature Writing [[202408212021]]
      * Telling a captivating story with journalism.
 
 
