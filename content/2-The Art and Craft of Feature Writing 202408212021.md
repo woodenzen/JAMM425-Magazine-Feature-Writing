@@ -45,4 +45,3 @@ description: >
 
 ## References
 - Blundell, William E. _The art and craft of feature writing: based on the Wall Street Journal guide_. 1988. 
-- [[B-The Art and Craft of Feature Writing 202408212021]]
