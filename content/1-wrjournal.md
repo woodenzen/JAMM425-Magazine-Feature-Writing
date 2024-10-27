@@ -2,10 +2,11 @@
 UUID:      ›[[202408220525]] 
 cdate:     08-22-2024 05:25 AM
 tags:      #JAMM425 #editing #writing-tip 
+title:  Write Right Journal 
+nav:  Write Right Journal 
+description: >
+     Writing and editing tips and tricks.
 ---
-# Write Right Journal 
-Subatomic: Writing and editing tips and tricks.
-
 # Lede
 Great writing tips come from anywhere.
 
