@@ -14,6 +14,9 @@ Great writing tips come from anywhere.
 #### Oct 26
 - Instead of telling your readers what to do, show them through examples, descriptions, stories, and anecdotes.
 - Good writers are masters at painting clear images in the minds of their readers.
+- Use foreshadowing and mystery in the lede
+- Each subsection should have its own lede and nut graph.
+- When Pitching a story, drill down to the essence. 
 
 #### Oct 22
 - Multiple nut graphs with short words can be used to spell out the story. 
