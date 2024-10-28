@@ -1,7 +1,7 @@
 ---
 UUID:      ›[[202408212021]] 
 cdate:     08-21-2024 08:21 PM 
-tags:      #proofing #JAMM425 #editorial-writing #writing #editing 
+tags:      #proofing #JAMM425 #editorial-writing #writing #editing #web-JAMM425 
 title: The Art and Craft of Feature Writing
 nav: The Art and Craft of Feature Writing
 description: >

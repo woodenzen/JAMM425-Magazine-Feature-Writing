@@ -1,7 +1,7 @@
 ---
 UUID:      ›[[202408220525]] 
 cdate:     08-22-2024 05:25 AM
-tags:      #JAMM425 #editing #writing-tip 
+tags:      #JAMM425 #editing #writing-tip #web-JAMM425 
 title:  Write Right Journal 
 nav:  Write Right Journal 
 description: >
@@ -203,12 +203,12 @@ Take chances, have fun, and grow.
 • DO: Read your story out loud. Find the rhythm in your words and writing, eliminate clunky passages
 • DO: Use direct, active sentences and short, strong words. Less is more in good storytelling.
 • DO: Tinker, rewrite, self-edit. Writing a first draft is essential, but rewriting until you get it right is the key to excellent writing. Give yourself enough time to do that.
-• DO: Set realistic deadlines to force you to finish reporting, do an outline, write a draft and a final story.
+• DO: Set realistic deadlines to force you to finish reporting, do an outline, and write a draft and a final story.
 
 
 
 ----------------------------------
-> In Tits Up, Sarah Thornton dives into the multifaceted world of breasts, approaching the subject with a blend of rigorous research, cultural analysis, and storytelling. The book is structured around interviews and essays that provide insight into how breasts are perceived, modified, and celebrated across different professions and cultures. Thornton's work spans from the historical to the contemporary, examining how breasts have been objectified, medicalized, and commodified. [^1]
+> In Tits Up, Sarah Thornton dives into the multifaceted world of breasts, approaching the subject with a blend of rigorous research, cultural analysis, humor, and storytelling. Her book is structured around interviews and essays that provide insight into how breasts are perceived, modified, and celebrated across different professions and cultures. Thornton's work spans from the historical to the contemporary, examining how breasts have been objectified, medicalized, and commodified. [^1]
 
 ----------------------------------
 ## See Also
