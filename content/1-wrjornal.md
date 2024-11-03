@@ -11,6 +11,54 @@ description: >
 Great writing tips come from anywhere.
 
 ----------------------------------
+
+#### Nov 2
+1. Write conversationally by asking questions
+    Each question invites conversation.
+2. Write conversationally by telling a story
+    Storytelling is magic for conversation.
+3. Write conversationally by giving an invitation
+    Invite the reader to explore further.
+
+#### Nov 1
+Here’s a quick summary of how writers produce work within a short time frame:
+* **They go for shorter articles.** Some topics do not warrant shorter articles, but others can be wrapped up nicely in several hundred words.
+* **They’ve done their homework.** Becoming proficient in a topic makes it easier to explain to others.
+* **They don’t overthink.** Carelessness is one problem, but the diametric opposite is overthinking.
+* **They practice.** Getting faster at writing is like getting faster at running. You’ll see improvements through practice, but after a while, you have to aim for improvements instead of going through the motions.
+
+#### Oct 31
+Takeaways from Jacque Banaszynski
+- A reporter is not a writer. If you don't have the chops for writing, maybe you can be a reporter. Ultimately, we want to meld both reporting and writing—varying the ratio for each story.  
+- Reporting on world and city events teaches fast writing and lets you build a beat. 
+- Create two checklists/outlines
+  - The first contains the required or civic items that must be checked off, and the second is the heartfelt story that wants to be told.
+  - Another way to look at this is one outline containing what the reader needs to know to make sense of the story, and the second is filled with my favorite scenes.
+- The real job of a good editor is to teach me how to fix my copy.
+- "You can't fit five pounds of shit in a three-pound bag," said Jacque Banaszynski's dad.
+- Create a "Body of Clips"
+- No story is a small story for the people in it.
+- Ask storyteller questions. 
+  - Ask storyteller questions as a follow-up
+    - I'm trying to visualize your situation
+    - Ask what color
+    - Who was there
+    - How did it make you feel
+    - Tell me more
+    - Really
+- Ask 3 versions of the same question to give the interviewee time to flush out their thoughts while keeping them focused, inviting them to speak.
+- Keep an eye on placement and proportionality where things are placed in a story in relation to how big of a deal I make of it. Be even-keeled with the emotionally charged stuff.
+- Use a 'Trusted First Reader' (Brutally Honest Critic)
+- My stories are more concise by removing five words from each paragraph. This exercise focuses attention on fluffy writing. (I removed 6 words from the previous paragraph, making it more concise.)
+- report against my biases
+
+#### Oct 29
+- In an interview, ask what drives your passion.
+- Telling the interviewee why I’m including them in this specific story helps keep the interview focused.
+- I need to listen to where the interviewee expresses their feelings or any emotions and then dive in.
+- There is a balance between keeping focus and letting the interviewee run uninterrupted.
+- need to listen to where the interviewee expresses their feelings or any emotion and then dive in.
+
 #### Oct 26
 - Instead of telling your readers what to do, show them through examples, descriptions, stories, and anecdotes.
 - Good writers are masters at painting clear images in the minds of their readers.
