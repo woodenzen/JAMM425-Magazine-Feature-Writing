@@ -11,7 +11,6 @@ layout: page
     </div>
 </div>
 
-{% include toc.html %}
 
 ------
 
