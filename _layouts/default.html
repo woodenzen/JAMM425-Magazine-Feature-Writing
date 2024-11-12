@@ -10,15 +10,31 @@
     {% include template/top-nav.html %}
     </header>
 
-    <main id="maincontent" role="main" aria-label="Content" class="flex-shrink-0">
-      
-      {{ content }}
-      
-    </main>
+    <div class="container-fluid">
+      <div class="row">
+        <nav id="sidebar" class="col-md-3 col-lg-2 d-md-block bg-light sidebar">
+          <div class="position-sticky">
+            <ul class="nav flex-column">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="/index.html">
+                  Back to Index
+                </a>
+              </li>
+              <li class="nav-item">
+                {% include toc.html %}
+              </li>
+            </ul>
+          </div>
+        </nav>
+
+        <main id="maincontent" role="main" aria-label="Content" class="col-md-9 ms-sm-auto col-lg-10 px-md-4 flex-shrink-0">
+          {{ content }}
+        </main>
+      </div>
+    </div>
 
     {% include template/footer.html %}
     {% include template/foot.html %}
 
   </body>
-
 </html>
