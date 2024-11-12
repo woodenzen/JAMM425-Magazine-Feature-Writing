@@ -1,17 +1,2 @@
 /* add your tweaks here! */
-/* Ensure the main content is left-aligned */
-main {
-  text-align: left; /* Ensure text is left-aligned */
-  padding-left: 1rem; /* Add small padding to the left */
-  padding-right: 1rem; /* Add small padding to the right */
-}
 
-/* Adjust the container to ensure it is not centered */
-.container-fluid {
-  display: block; /* Ensure it is not using flexbox */
-}
-
-<main id="maincontent" role="main" aria-label="Content" class="col-md-8 col-lg-8 flex-shrink-0" style="text-align: left; padding-left: 1rem; padding-right: 1rem;">
-  {{ content }}
-</main>
- 
