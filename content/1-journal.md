@@ -11,6 +11,16 @@ description: >
 Great writing tips come from anywhere.
 
 ----------------------------------
+#### Nov 11
+Questions to ask myself when I start writing.
+1. What background information is essential to this story?
+2. Who is the person I'm conversing with?
+3. What are my biases?
+4. What part of the story is the audience familiar with it?
+5. What would successful communication look like?
+6. If you only had 5 minutes or a single sentence to tell my story, what would it be?
+
+- Clutter is the enemy.
 
 #### Nov 2
 1. Write conversationally by asking questions
