@@ -1,7 +1,7 @@
 ---
 UUID:      ›[[202411132044]] 
 cdate:     11-13-2024 08:44 PM
-tags:      #proofing
+tags:      #JAMM425 #blog-post #editorial-writing 
 title:       Library Trend Feature 
 nav:      Library Trend Feature
 description: >
