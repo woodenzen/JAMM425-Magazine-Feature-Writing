@@ -1,8 +1,8 @@
 ---
 UUID:      ›[[202411132044]] 
 cdate:     11-13-2024 08:44 PM
-tags:      #JAMM425 #blog-post #editorial-writing #web-JAMM425 
-title:       The future of learning: The University of Idaho Library revolution 
+tags:      #JAMM425library #editorial-writing #web-JAMM425
+title:       The future of learning - The University of Idaho Library revolution 
 nav:      Library Trend Feature
 description: >
        The library is trending toward the digital.
