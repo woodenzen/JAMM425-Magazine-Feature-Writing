@@ -1,14 +1,16 @@
 ---
 UUID:      ›[[202411132044]] 
 cdate:     11-13-2024 08:44 PM
-tags:      #JAMM425 #blog-post #editorial-writing 
+tags:      #JAMM425 #blog-post #editorial-writing #web-JAMM425 
 title:       Library Trend Feature 
 nav:      Library Trend Feature
 description: >
-        University of Idaho's library digital trends.
+        University of Idaho's Library digital trends.
 ---
+By Will Simpson
+Hidden Gem Reporter
 
-Step into the University of Idaho Library, and you'll quickly realize it's not just a sanctuary for book lovers. Instead, it's a humming hub of chatter and laughter, with some students buried in screens and others lounging on oversized ottomans. 
+MOSCOW, Idaho—Step into the University of Idaho Library, and you'll quickly realize it's not just a sanctuary for book lovers. Instead, it's a humming hub of chatter and laughter, with some students buried in screens and others lounging on oversized ottomans. 
 
 The scene is a collision between the old and the new—as much about study and research as it is about building a community.
 
