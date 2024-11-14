@@ -1,7 +1,7 @@
 ---
 UUID:      ›[[202411141214]] 
 cdate:     11-14-2024 12:14 PM
-tags:       #JAMM425diversity #proofing #web-JAMM425
+tags:       #JAMM425diversity #web-JAMM425
 title:       Bee Buzz at the Fair  
 nav:      County Fair Feature
 description: >
