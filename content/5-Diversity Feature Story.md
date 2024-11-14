@@ -3,7 +3,7 @@ UUID:      ›[[202411070942]]
 cdate:     11-07-2024 09:42 AM
 tags:       #JAMM425diversity #proofing #web-JAMM425
 title:       Toward More Inclusive Campus 
-nav:      Diversity Feature
+nav:         Diversity Feature
 description: >
         Blindness and Vision Impairment is a disability that contributes to the diverse student population at the University of Idaho.
 ---
