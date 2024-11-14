@@ -44,5 +44,4 @@ Sources:
 3. Robert Kunasek, Apiatist Digg Bee Honey, personal communication, September 14, 2024
    - Phone 208-935-7718
    - Email diggbeehoney@yahoo.com
-4. What would happen if bees went extinct? (2014, May 2). *BBC Future*. 
-   https://www.bbc.com/future/article/20140502-what-if-bees-went-extinct 
+4. [What would happen if bees went extinct? (2014, May 2). BBC Future.](https://www.bbc.com/future/article/20140502-what-if-bees-went-extinct) 
