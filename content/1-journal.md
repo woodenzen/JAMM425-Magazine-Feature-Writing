@@ -11,6 +11,12 @@ description: >
 Great writing tips come from anywhere.
 
 ----------------------------------
+#### Nov 13
+At the end of a lede describing the historical, everyday, how things were in the past, end with "... until recently." and have the story be a refutation of the lede.
+[When One Day Becomes Today | Humanities | JAMA | JAMA Network](https://jamanetwork.com/journals/jama/fullarticle/2825087)
+
+  - Work on more than one story at a time. Think about this when interviewing. Ask questions about this and a future story. Look for opportunities to shift to another story. When writing a story, look back at clips for connections with the current story. This recycles ideas, adds interest, and saves time. 
+
 #### Nov 11
 Questions to ask myself when I start writing.
 1. What background information is essential to this story?
