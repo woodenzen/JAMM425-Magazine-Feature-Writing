@@ -1,7 +1,7 @@
 ---
 UUID:      ›[[202411070942]] 
 cdate:     11-07-2024 09:42 AM
-tags:       #JAMM425diversity #proofing #web-JAMM425 J
+tags:       #JAMM425diversity #proofing #web-JAMM425
 title:       Toward More Inclusive Campus 
 nav:      Diversity Feature
 description: >
