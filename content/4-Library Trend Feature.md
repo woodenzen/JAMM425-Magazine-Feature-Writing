@@ -7,7 +7,7 @@ nav:      Library Trend Feature
 description: >
        The library is trending toward the digital.
 ---
-By Will Simpson
+By Will Simpson  
 Hidden Gem Reporter
 
 MOSCOW, Idaho—Step into the University of Idaho Library, and you'll quickly realize it's not just a sanctuary for book lovers. Instead, it's a humming hub of chatter and laughter, with some students buried in screens and others lounging on oversized ottomans. 
