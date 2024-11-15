@@ -11,6 +11,30 @@ description: >
 Great writing tips come from anywhere.
 
 ----------------------------------
+#### Nov 15
+## Tips
+- Be a good date to your reader [[202308180551]]
+     * Being a good date is a metaphor for thinking about the other.
+- Writing The Details [[202111142113]]
+  - tips on focus and dialog
+- Name the action [[202002100737]]
+- Improve Your Writing With An Observational Notebook
+             - evernote:///view/597091/s5/745af2eb-4c4a-4b15-a8d3-e965f9376a27/745af2eb-4c4a-4b15-a8d3-e965f9376a27/
+- Construal Level Theory applied to intimate writing [[202303110936]]
+     - A closer relationship means less abstract and more visceral feelings.
+- Descriptive Repetition [[202006090936]] 
+- Say It Again! Use Repetition to Write Persuasively [[202210072027]]
+     - Saying an idea more than once is a simple technique for persuasion.
+- Repeat sentences for impact [[202210072001]]
+- [[201911281108]] Simple Complete Observation in a long descriptive sentence.
+- A-The Craft of Writing [[202303011657]]
+     - What it means to persevere as a writer, to connect with a reader meaningfully.
+- Nature And Environmental Writing Is [[202008062028]] 
+    - Descriptive of the 'natural world'
+-  §[[202111290825]]
+- A-Relate Sentences to a Paragraph’s Main Idea [[202302040606]]
+- Practice Longer Sentences [[202303021039]]
+
 #### Nov 14
 Jackie Varriano - Seattle Times Food Writer
 - If you can write a good pitch, turn work in on time, and produce clean copy, you'll get work and keep getting work.
