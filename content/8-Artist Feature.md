@@ -3,11 +3,11 @@ UUID:      ›[[202411131528]]
 cdate:     11-13-2024 03:28 PM
 tags:       #proofing #JAMM425art #web-JAMM425 
 title:       Jill Kyong Artist Feature 
-nav:      Artist Profile Feature
+nav:      DRAFT Artist Profile Feature
 description: >
         An artist profile on [Jill Kyong](https://jillkyong.com/), an abstract wood sculpturist.
 ---
-By Will Simpson
+By Will Simpson  
 Hidden Gem Reporter
 
 MOSCOW, Idaho—Jill never set out to be a wood artist—it wasn’t even on the radar. It wasn’t a dream or some inherited skill passed down from an artistic ancestor. Instead, it was more like a serendipitous accident. 
