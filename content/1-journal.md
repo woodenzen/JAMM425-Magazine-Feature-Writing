@@ -13,13 +13,13 @@ Great writing tips come from anywhere.
 ----------------------------------
 #### Nov 14
 Jackie Varriano - Seattle Times Food Writer
-- If you can pitch a story, turn work in on time, and produce clean copy, you'll get work and keep getting work.
+- If you can write a good pitch, turn work in on time, and produce clean copy, you'll get work and keep getting work.
 - Write as if you were a lawyer, calculate billable hours, and let that set your earnings.
 - She used buckshot as an analogy for broadly scattering your pitch to everywhere. 
 - "Be a bit of a chameleon." 
 - Food is a massive umbrella under which to file a story.
 - Timing is essential in determining when to pitch a story. Ask yourself if the publication has already done this story recently.
-- There is a difference between magazine and newspaper writing. Feature writing versus "a short newser."
+- There is a difference between magazine and newspaper writing. Feature writing versus "a short newser." (Newsroom lingo. Another shad-mode moment.)
 
 #### Nov 13
 At the end of a lede describing the historical, everyday, how things were in the past, end with "... until recently." and have the story be a refutation of the lede.
