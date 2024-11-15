@@ -10,9 +10,11 @@ description: >
 By Will Simpson  
 Hidden Gem Reporter
 
-MOSCOW, Idaho—Jill Kyong never set out to be a wood artist—it wasn’t even on the radar. It wasn’t a dream or some inherited skill passed down from an artistic ancestor. Instead, it was more like a lucky accident. 
+MOSCOW, Idaho—The artist and the academic go for a walk in the woods. Sounds like the opening to a barroom joke. Instead, it describes the dance between her creative exploration and his need for fresh air and exercise. 
 
-In high school, the artist worked in a busy welding program, pushing against gender boundaries. Then, in college, the focus fell on metal casting because there were world-renowned instructors available. Then, marriage and family attempted to interrupt Kyong's artistic trajectory. A move to Little Rock, Arkansas, proved to ignite her passion, and embarking on a journey to become an accomplished wood sculptor.
+In a time of political and cultural chaos, the wood sculptor from rural Minnesota finds calm amid turmoil and explores feelings of separation and connection. Kyong fresh perspective broke the gender barriers in her education, leading to her discovery of wood as her inspiration and the rewards of creating art that represents human connection. Her work translates chaos in nature into soothing geometric patterns overlapping into three-dimensional panels that are bright with color. 
+
+In high school, she worked in a busy welding program, pushing against gender boundaries. In college, the focus fell on metal casting because there were world-renowned instructors available. Then, marriage and family attempted to interrupt Kyong's artistic trajectory. Only a move to Little Rock, Ark., ignited her passion as she embarked on her journey to become an accomplished wood sculptor.
 
 #### The Twisted Path
 
@@ -48,10 +50,6 @@ Her pieces often convey subtle messages that invite contemplation without being 
 Her art delves into the themes of nature, connection, and hope. She draws inspiration from the beauty of the natural world and seeks to bring a sense of calm and order to the chaos of modern life.
 
 Precise, mathematical, and geometrical are terms used to describe her sculptures.
-
-#### McClain
-McClain describes being the designated driver on their trips to deliver and retrieve Kyong’s artwork.
-He's color blind, according to Kyong. 
 
 #### Ending
 
