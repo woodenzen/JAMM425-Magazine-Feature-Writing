@@ -60,12 +60,12 @@ On her slow hikes, Kyong pauses to capture details like cracks, light, and patte
 
 ----------------------------------
 
-References  
-•	Kyong, J. (2024, October 30). Personal communication [Personal interview].  
-•	McClain, J. (2024, October 29). Personal communication [Personal interview].  
-•	Vieth, E. (2024, October 28). Little Pink House Gallery, Personal communication [Personal interview].  
-•	Krumpe, E. (2024, October 29). Personal communication [Personal interview].  
-Online  
+#### References  
+•	Kyong, J. (2024, November 5). Personal communication [Personal interview].  
+•	McClain, J. (2024, November 11). Personal communication [Personal interview].  
+•	Vieth, E. (2024, November 7). Little Pink House Gallery, Personal communication [Personal interview].  
+•	Krumpe, E. (2024, November 13). Personal communication [Personal interview].  
+#### Online  
 •	JILL KYONG, https://jillkyong.com/  
   
 
