@@ -16,7 +16,7 @@ In a time of political and cultural chaos, Jill Kyong, a wood sculptor and MFA c
 
 ----------------------------------
 
-Her journey really starts back in the 80s, in a rural farming community high school in Minnesota, back in the 80s. Funding was given for all things agricultural. "We had a huge welding shop, a large wood shop, but no art classes," said Kyong.
+Her journey really started in the 80s in a rural farming community high school in Minnesota. Funding was available for all things agricultural. "We had a huge welding shop, a large wood shop, but no art classes," said Kyong.
 
  She studied metal casting under nationally renowned foundry artist Wayne Potratz. Getting her undergraduate degree in art from the University of Minnesota. 
 
