@@ -1,9 +1,9 @@
 ---
 UUID:      ›[[202411131528]] 
 cdate:     11-13-2024 03:28 PM
-tags:       #proofing #JAMM425art #web-JAMM425 
+tags:       #JAMM425art #web-JAMM425 
 title:       Sculpting Calm in a Chaotic World
-nav:      DRAFT Artist Profile Feature
+nav:       Artist Profile Feature
 description: >
         An artist profile on [Jill Kyong](https://jillkyong.com/), an abstract wood sculpturist.
 ---
@@ -60,11 +60,12 @@ On her slow hikes, Kyong pauses to capture details like cracks, light, and patte
 
 ----------------------------------
 
-References 
-•	Kyong, J. (2024, October 30). Personal communication [Personal interview].
-•	McClain, J. (2024, October 29). Personal communication [Personal interview].
-•	Vieth, E. (2024, October 28). Little Pink House Gallery, Personal communication [Personal interview].
-•	Krumpe, E. (2024, October 29). Personal communication [Personal interview].
-Online 
-•	JILL KYONG, https://jillkyong.com/
+References  
+•	Kyong, J. (2024, October 30). Personal communication [Personal interview].  
+•	McClain, J. (2024, October 29). Personal communication [Personal interview].  
+•	Vieth, E. (2024, October 28). Little Pink House Gallery, Personal communication [Personal interview].  
+•	Krumpe, E. (2024, October 29). Personal communication [Personal interview].  
+Online  
+•	JILL KYONG, https://jillkyong.com/  
+  
 
