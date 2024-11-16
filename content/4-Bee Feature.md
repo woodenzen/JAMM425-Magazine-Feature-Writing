@@ -21,7 +21,7 @@ Over the years, honeybee entries at the Latah County Fair have dwindled—no mor
 "Stookey's Feed and Garden Supply sponsored many of the fair exhibits, such as flowers, that large sponsors overlooked. He was happy to help the community. When he passed, the baton dropped as none of the other stores or businesses picked it up," said Glasebrook as he picks up this baton. Now, there is a glimmer of hope. "My hive mentor is Jerry McGee, who helps me with hive decisions and improvements, as well as improving my understanding and knowledge about bees," says Sophie Johnson's entry in the contest and the first-place winner of the Sweet Taste of Honey contest at the Latah County Fair.
 
 ![A Honey Bees Best Friend educational display at the Latah County Fair, September 13, 2024. Photo by author.](media/bees.jpg) "A Honey Bees Best Friend educational display at the Latah County Fair, September 13, 2024. Photo by author."
-
+       
 A Honey Bees Best Friend educational display at the Latah County Fair, September 13, 2024. Photo by author.
 
 "Mentoring is part of the beekeeping business as the goal is to have successful beekeepers enjoying this gentle art rather than beekeepers who try for a year or two and drop away because of difficulties," said Glasebrook. Mentoring young beekeepers isn’t just a nice idea; it’s essential for the survival of the honeybee and the continuation of our food supply. Without someone to guide the next generation, we risk losing critical agricultural knowledge.
