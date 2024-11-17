@@ -11,8 +11,11 @@ description: >
 Great writing tips come from anywhere.
 
 ----------------------------------
+#### Nov 17
+- Find the inciting incident that launches the story and put it right after the nut graf. This will start the story.
+
 #### Nov 15
-## Tips
+Tips
 - Be a good date to your reader [[202308180551]]
      * Being a good date is a metaphor for thinking about the other.
 - Writing The Details [[202111142113]]
