@@ -1,33 +1,22 @@
 <!DOCTYPE html>
-<html lang="en" class="h-100">
+<html lang="en">
   <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
   {% include template/head.html %}
   </head>
 
-  <body class="d-flex flex-column h-100">
+  <body>
     <div id="skip-to-content"><a href="#maincontent">Skip to main content</a></div>
     <header>
     {% include template/top-nav.html %}
     </header>
 
-    <div class="container-fluid">
-      <div class="row">
-        <nav id="sidebar" class="col-md-4 col-lg-4 d-md-block bg-light sidebar">
-          <div class="position-sticky"> 
-            <ul class="nav flex-column">
-              <li class="nav-item">
-                {% include toc.html %}
-              </li>
-            </ul>
-          </div>
-        </nav>
-
-        <main id="maincontent" role="main" aria-label="Content" class="col-md-8 col-lg-8 px-3 flex-shrink-0" style="text-align: left">
-          {{ content }}
-        </main> 
+    <main id="maincontent" role="main" aria-label="Content">
+      <div class="container my-4">
+      {{ content }}
       </div>
-    </div>
+    </main>
 
+    {% include template/footer.html %}
     {% include template/foot.html %}
+
   </body>
-</html>
