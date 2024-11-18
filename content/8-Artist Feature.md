@@ -10,9 +10,9 @@ description: >
 By Will Simpson  
 Hidden Gem Reporter
 
-MOSCOW, Idaho — Jill Kyong transforms chaos into connection. She finds meaning in the chaos of nature. She takes little cracks in the pavement, snippets of landscape, and burnt tree snags she stumbles upon and transforms them with a vision of calm, connection, and hope into colorful, vibrant, precise geometric artworks. 
+MOSCOW, Idaho — Jill Kyong transforms the chaos of nature into meaningful connections. She takes little cracks in the pavement, snippets of landscape, and burnt tree snags she stumbles upon and transforms them into colorful, vibrant, precise geometric artworks. 
 
-In a time of political and cultural chaos, Jill Kyong, a wood sculptor and Master of Fine Arts (MFA) candidate at the University of Idaho, finds calm amid turmoil and explores feelings of separation and connection. Her work translates chaos into soothing geometric patterns overlapping into three-dimensional panels, bright with color. 
+In a time of political and cultural chaos, Jill Kyong, a wood sculptor and Master of Fine Arts (MFA) candidate at the University of Idaho, finds calm amid turmoil and explores feelings of separation and connection. Her work translates a topsy-turvy world into soothing geometric sculptures of overlapping three-dimensional panels, bright with color. 
 
 ###
 
@@ -44,9 +44,11 @@ This attention to detail and appreciation for the subtleties of nature contrast 
 
 “I'm often taking moments based on chaos and stuff I find disturbing in society, trying to find the beauty in it, trying to find the calm that we can all agree on, and offering hope in that situation," said Kyong.
 
-Her pieces often convey subtle messages inviting contemplation without being overtly explicit. Growth, a 30-inch square wall sculpture, "originated from a photo taken of grass growing through a thin crack in the pavement along a road," according to Kyong's website. This inspired her to create a piece connecting this small natural scene with the Black Lives Matter movement and George Floyd's death. Growth features a gray box with five smaller green boxes containing black-and-white stones. The central box holds both a black and white stone, symbolizing racial reconciliation. Kyong's art resonates with viewers on a personal level, even if they're unaware of the underlying message.
+Her pieces often convey subtle messages inviting contemplation without being overtly explicit. 
 
-Between is a wall sculpture also 30 inches square and "about the spaces between mountains, the spaces between trees, and the space between humans." according to Kyong's website. She drew inspiration from the trailside burnt snags on a warm sunny day in Montana's Glacier National Park. This piece comprises two pale white panels, one curved, and three black "trees" graphically spanning the panels and carved wooden stones nestled up against their base.
+[Growth](https://jillkyong.com/growth/), a 30-inch square wall sculpture, "originated from a photo taken of grass growing through a thin crack in the pavement along a road," according to Kyong's website. This inspired her to create a piece connecting this small natural scene with the Black Lives Matter movement and George Floyd's death. Growth features a gray box with five smaller green boxes containing black-and-white stones. The central box holds both a black and white stone, symbolizing racial reconciliation. Kyong's art resonates with viewers on a personal level, even if they're unaware of the underlying message.
+
+[Between](https://jillkyong.com/between-3/) is a wall sculpture also 30 inches square and "about the spaces between mountains, the spaces between trees, and the space between humans." according to Kyong's website. She drew inspiration from the trailside burnt snags on a warm sunny day in Montana's Glacier National Park. This piece comprises two pale white panels, one curved, and three black "trees" graphically spanning the panels and carved wooden stones nestled up against their base.
 
 ###
 
