@@ -11,6 +11,25 @@ description: >
 Great writing tips come from anywhere.
 
 ----------------------------------
+#### Nov 21
+Takeaways from Monica Carrillo-Casas Guest Lecture
+- A great learning experience is had by leaning into the stories that you know you are not good at. 
+- Sometimes, you have to take time for yourself. It will make your stories better.
+- You write a more extended version for print than you do for radio. Rewriting a story for radio could be great practice in evolving a story to its essence for a 1-2 minute spot on the radio. I'd have to get someone else to perform the piece for radio.
+    - Radio requires the wording to be "punched up for engagement."
+    - Radio uses oral storytelling techniques.
+- Always be looking to build a personal connection with people.
+- She stressed the importance of "finding the stuffed animal."
+
+#### Nov 19
+- A great learning experience is had by leaning into the stories that you know you are not good at. 
+- Sometimes, you have to take time for yourself. It will make your stories better.
+- You write a more extended version for print than you do for radio. Rewriting a story for radio could be great practice in evolving a story to its essence for a 1-2 minute spot on the radio. I'd have to get someone else to perform the piece for radio.
+    - Radio requires the wording to be "punched up for engagement."
+    - Radio uses oral storytelling techniques.
+- Always be looking to build a personal connection with people.
+
+
 #### Nov 17
 - Find the inciting incident that launches the story and put it right after the nut graf. This will start the story.
 
