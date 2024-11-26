@@ -7,3 +7,17 @@
 //     height: 100vh;
 //     overflow-y: auto;
 // }
+
+/* Always show the navbar toggler button */
+.navbar-toggler {
+    display: block !important;
+}
+
+/* Ensure the navbar is always collapsible */
+.navbar-collapse {
+    display: none !important;
+}
+
+.navbar-collapse.show {
+    display: block !important;
+}

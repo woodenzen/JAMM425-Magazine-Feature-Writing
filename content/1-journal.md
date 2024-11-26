@@ -11,6 +11,10 @@ description: >
 Great writing tips come from anywhere.
 
 ----------------------------------
+#### Nov 22
+- Without descriptions of light and color, your reader's world will slide into darkness.
+- Writing for the reader isn’t as easy as it sounds.
+ 
 #### Nov 21
 Takeaways from Monica Carrillo-Casas Guest Lecture
 - A great learning experience is had by leaning into the stories that you know you are not good at. 
