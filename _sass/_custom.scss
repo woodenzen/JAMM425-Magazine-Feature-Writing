@@ -24,7 +24,7 @@
 }
 
 /* Ensure the navbar content is hidden at larger sizes */
-@media (min-width: 992px) {
+@media (min-width: 400) {
     .navbar-collapse {
         display: none !important;
     }
