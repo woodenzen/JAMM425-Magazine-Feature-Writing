@@ -13,11 +13,19 @@
     display: block !important;
 }
 
-/* Ensure the navbar is always collapsible */
+/* Hide the navbar content by default */
 .navbar-collapse {
     display: none !important;
 }
 
+/* Show the navbar content when the toggler button is clicked */
 .navbar-collapse.show {
     display: block !important;
+}
+
+/* Ensure the navbar content is hidden at larger sizes */
+@media (min-width: 992px) {
+    .navbar-collapse {
+        display: none !important;
+    }
 }
