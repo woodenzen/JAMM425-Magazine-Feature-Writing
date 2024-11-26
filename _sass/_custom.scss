@@ -28,4 +28,7 @@
     .navbar-collapse {
         display: none !important;
     }
+    .navbar-collapse.show {
+        display: block !important;
+    }
 }
