@@ -3,7 +3,7 @@ UUID:      ›[[202408220525]]
 cdate:     08-22-2024 05:25 AM
 tags:      #JAMM425 #editing #writing-tip #web-JAMM425 
 title:  Write Right Journal 
-nav: false 
+nav: W—R Journal 
 description: >
      Writing and editing tips and tricks.
 ---
