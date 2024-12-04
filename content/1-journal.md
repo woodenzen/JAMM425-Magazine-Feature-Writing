@@ -11,6 +11,9 @@ description: >
 Great writing tips come from anywhere.
 
 ----------------------------------
+#### Dec 1
+- A way to frame a short piece is to start with a lede, followed by a nut graf that starts "Here’s the short version:..." The following paragraph starts, "The long version starts now..."
+
 #### Nov 22
 - Without descriptions of light and color, your reader's world will slide into darkness.
 - Writing for the reader isn’t as easy as it sounds.
