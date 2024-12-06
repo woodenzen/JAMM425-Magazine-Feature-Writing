@@ -11,6 +11,12 @@ description: >
 Great writing tips come from anywhere.
 
 ----------------------------------
+#### Dec 6
+- In general, use "says" for magazine pieces to quote humans. Use "according to" for documents.
+- Avoid second-person (you, we, us, our), stick to third-person or a mix of first and third-person.
+- Place the first quote as high up in the story as possible.
+- When you write, you’re not just sharing information; you’re sending out a signal. Think of your writing as a lighthouse, casting its light in a specific direction, or as a firefly, flashing its signal to others attuned to the same frequency.
+
 #### Dec 1
 - A way to frame a short piece is to start with a lede, followed by a nut graf that starts "Here’s the short version:..." The following paragraph starts, "The long version starts now..."
 
